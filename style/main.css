@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+  background-color: #1f2964;
+  display: grid;
+  justify-content: center;
+}
+
+canvas {
+  margin-top: -5em;
+  margin-bottom: -3em;
+  pointer-events: none;
+}
+
+.container {
+  /* border: 1px solid #fff; */
+  height: 70vh;
+  position: absolute;
+  top: 13rem;
+  left: 35rem;
+}
